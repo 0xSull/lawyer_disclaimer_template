@@ -1,6 +1,3 @@
-# lawyer_disclaimer_template
-autonomous law disclosure and disclaimer template (lawyer version)
-
 ***DISCLAIMERS FOLLOW: Please review and be advised of the following:*** 
 
 I am a lawyer admitted to practice in Ireland.  
