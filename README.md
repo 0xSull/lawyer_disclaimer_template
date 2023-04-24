@@ -1,6 +1,6 @@
 ***DISCLAIMERS FOLLOW: Please review and be advised of the following:*** 
 
-I am a lawyer admitted to practice in Ireland.  
+I am a lawyer admitted to practice in England and Wales.  
 
 **DISCLAIMER OF ATTORNEY – CLIENT RELATIONSHIP** 
 
@@ -20,8 +20,8 @@ In engaging in autonomous lawyering, I am not acting on behalf of my law firm or
 
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein:  
 
-- LeXpunk
+- LexPpunk
 
-I also hold non-immaterial amounts (by portfolio %) of Ether & various stablecoins 
+I also hold non-immaterial amounts (by portfolio %) of Ether and Bitcoin. 
 
 I disclaim any responsibility to keep these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
